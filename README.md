@@ -9,13 +9,13 @@ Update the path with the name of your diagram](Images/diagram_filename.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _playbook_ file may be used to install only certain pieces of it, such as Filebeat.
 
-  1.https://github.com/allentech1905/OSU-CS-Boot-Camp/blob/master/my-playbook.yml
+  1.https://github.com/allentech1905/OSU-CS-Boot-Camp/blob/master/Ansible/WebServer%20Yml
   
-  2.https://github.com/allentech1905/OSU-CS-Boot-Camp/blob/master/instal-elk.yml
+  2.https://github.com/allentech1905/OSU-CS-Boot-Camp/blob/master/Ansible/Elk%20Installation
   
-  3.https://github.com/allentech1905/OSU-CS-Boot-Camp/blob/master/filebeat-playbook.yml
+  3.https://github.com/allentech1905/OSU-CS-Boot-Camp/blob/master/Ansible/Filebeat%20Yml
   
-  4.https://github.com/allentech1905/OSU-CS-Boot-Camp/blob/master/metricbeat.yml
+  4.https://github.com/allentech1905/OSU-CS-Boot-Camp/blob/master/Ansible/Metricbeat%20Yml
 
 This document contains the following details:
 - Description of the Topologu
